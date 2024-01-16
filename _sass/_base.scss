@@ -588,12 +588,18 @@ footer.sticky-bottom {
       .card-title {
         color: var(--global-theme-color);
       }
+      .card {
+        img {
+          filter: grayscale(0);
+        }
+      }
     }
   }
 
   .card {
     img {
       width: 100%;
+      filter: grayscale(0.8);
     }
   }
 

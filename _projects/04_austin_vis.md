@@ -5,5 +5,5 @@ description: Javascript, Leaflet, Billboard, HTML, CSS
 img: assets/img/austin.gif
 redirect: ../assets/html/austin/index.html
 importance: 4
-category: Web Application & Visualization
+category: Predictive Modeling and Analysis
 ---

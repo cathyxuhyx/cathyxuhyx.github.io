@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Predictive Modeling and Analysis, Web Application & Visualization, Architecture and Landscape Design]
+display_categories: [Predictive Modeling and Analysis, Architecture and Landscape Design]
 horizontal: false
 ---
 

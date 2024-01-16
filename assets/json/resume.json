@@ -32,7 +32,6 @@
   "education": [
     {
       "institution": "Massachusetts Institute of Technology",
-      "location": "Cambridge, MA",
       "url": "",
       "area": "Mobility and Urban Science",
       "studyType": "PhD",
@@ -42,7 +41,6 @@
     },
     {
       "institution": "University of Pennsylvania",
-      "location": "Philadelphia, PA",
       "url": "",
       "area": "Urban Spatial Analytics",
       "studyType": "Master",
@@ -52,9 +50,8 @@
     },
     {
       "institution": "University of Toronto",
-      "location": "Toronto, ON",
       "url": "",
-      "area": "Architectural Design & Economics Double Major",
+      "area": "Double Major in Architectural Design & Economics",
       "studyType": "Honours Bachelor of Arts",
       "startDate": "2015",
       "endDate": "2019",
