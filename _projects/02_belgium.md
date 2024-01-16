@@ -5,5 +5,5 @@ description: R, Multinomial Logistic Regression, App Wireframe, Profit Optimizat
 img: assets/img/from.gif
 redirect: ../assets/html/train_occupancy_prediction.html
 importance: 3
-category: Predictive Modeling and Analysis
+category: archive
 ---
