@@ -5,5 +5,5 @@ description: Python, Machine Learning (Scikit-learn), K-Means, SVM, Deep Learnin
 img: assets/img/slums.PNG
 redirect: ../assets/html/slum_prediction.pdf
 importance: 7
-category: Writings
+category: Predictive Modeling and Analysis
 ---

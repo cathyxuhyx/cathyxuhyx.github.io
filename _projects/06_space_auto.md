@@ -5,5 +5,5 @@ description: Predict Philadelphia house values with spatial lag, spatial error a
 img: assets/img/space-autocorrelate.png
 redirect: ../assets/html/prediction_of_median_house_values.pdf
 importance: 6
-category: Writings
+category: Predictive Modeling and Analysis
 ---

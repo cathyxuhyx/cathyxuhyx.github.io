@@ -5,5 +5,5 @@ description: Find the viable forest patches that are of the most conservation im
 img: assets/img/hcsa.PNG
 redirect: ../assets/html/high_carbon_stock_approach.pdf
 importance: 8
-category: Writings
+category: Predictive Modeling and Analysis
 ---
