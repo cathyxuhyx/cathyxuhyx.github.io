@@ -13,13 +13,13 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 Hello! I am a doctoral student at the [Department of Urban Studies and Planning (DUSP) at MIT](https://dusp.mit.edu) and a member of the [JTL Urban Mobility Lab (JTL)](https://mobility.mit.edu), advised by Professor [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I seek to leverage the power of data science, algorithms, visualization, and web development to lead to better mobility development, urban planning, public policy making, and business growth. My current research focuses on uncovering, understanding, and rectifying algorithmic fairness concerns inherent in urban mobility systems. 
 
-Prior to joining DUSP, I accumulated three years of professional experience as both a data analyst and a GIS specialist at Meituan and CityDNA Technology. During this period, I adeptly orchestrated data analyses, developed algorithms, and crafted web-based solutions, all of which catered to the needs of decision-makers operating within the spheres of urban planning and e-commerce. I hold a [Master of Urban Spatial Analytics](https://www.design.upenn.edu/yes2020/hanyong-xu) from the [University of Pennsylvania Stuart Weitzman School of Design](https://www.design.upenn.edu) and an Honors Bachelor of Arts with a double major in Architectural Design and Economics from the University of Toronto.
+Prior to joining DUSP, I accumulated three years of professional experience as both a data analyst and a GIS specialist at Meituan and CityDNA Technology, orchestrating data science and web-based solutions to decision-makers in urban planning and e-commerce. I hold a [Master of Urban Spatial Analytics](https://www.design.upenn.edu/yes2020/hanyong-xu) from the University of Pennsylvania Stuart Weitzman School of Design and an Honors Bachelor of Arts with a double major in Architectural Design and Economics from the University of Toronto.
 
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
