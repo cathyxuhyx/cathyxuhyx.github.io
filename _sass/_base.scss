@@ -178,11 +178,11 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 2.1rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 2.1rem;
 }
 
 @media (min-width: 576px) {
@@ -353,7 +353,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
@@ -370,7 +370,7 @@ blockquote {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 }
 

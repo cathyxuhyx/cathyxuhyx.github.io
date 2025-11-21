@@ -19,7 +19,10 @@ social: true  # includes social icons at the bottom of the page
 
 Nice to meet you! 
 
-I am a Ph.D. candidate in Urban Science at the [Department of Urban Studies and Planning (DUSP) at MIT](https://dusp.mit.edu), advised by Professor [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I am a member of the [JTL Urban Mobility Lab (JTL)](https://mobility.mit.edu) and affliated with [Data + Feminism Lab](https://dataplusfeminism.mit.edu). I seek to leverage the power of data science, algorithms, and visualization to lead to better urban planning, public policy making, and business growth. My current research focuses on 1) responsible data science and AI in urban science and 2) platform economy and urban form. 
+I am a Ph.D. candidate in Urban Science at the [Department of Urban Studies and Planning (DUSP) at MIT](https://dusp.mit.edu), advised by Professor [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I am a member of the [JTL Urban Mobility Lab (JTL)](https://mobility.mit.edu) and affliated with [Data + Feminism Lab](https://dataplusfeminism.mit.edu). I seek to leverage the power of data science, algorithms, and visualization to lead to better urban planning, public policy making, and business growth. My current research focuses on:
+
+- responsible data science and AI in urban science 
+- platform economy and urban form. 
 
 Prior to joining DUSP, I accumulated three years of professional experience as both a data analyst and a GIS specialist at Meituan and CityDNA Technology, orchestrating data science and web-based solutions to decision-makers in urban planning and e-commerce. I hold a [Master of Urban Spatial Analytics](https://www.design.upenn.edu/yes2020/hanyong-xu) from the University of Pennsylvania Stuart Weitzman School of Design and an Honors Bachelor of Arts with a double major in Architectural Design and Economics from the University of Toronto.
 
