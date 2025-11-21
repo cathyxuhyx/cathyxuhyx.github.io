@@ -34,7 +34,6 @@ layout: default
               %}
             {% endif -%}
 
-            <!-- Social -->
           {%- if page.social %}
             <div class="social">
               <div class="contact-note">
@@ -75,20 +74,7 @@ layout: default
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected research</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
-
-          <!-- Social -->
-          <!-- {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-
-            </div>
-          {%- endif %} -->
+          
           <div style="pointer-events: none;">
             <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=iVEG3Lw-2iYfsiBvyaGC1Z5Yw8-W9fdv0CsBhUPNftg&co=beccd6&cmo=4a77a1&cmn=44a0c7'></script>
           </div>
