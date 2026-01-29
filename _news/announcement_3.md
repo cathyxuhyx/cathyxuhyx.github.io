@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Hanyong presented at the [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) at Seattle, US for her research "Navigating Algorithmic Unfairness in Ride-Hailing: Examining Disparate Impacts of Transportation Network Company Algorithms in New York City." 
+Presented "Navigating Algorithmic Unfairness in Ride-Hailing: Examining Disparate Impacts of Transportation Network Company Algorithms in New York City" at the [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) in Seattle, US.
