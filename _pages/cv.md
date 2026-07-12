@@ -20,7 +20,7 @@ description:
 
 <p>
   <!-- Always provide a direct link -->
-  <a href="{{ '/assets/pdf/Hanyong_Xu_cv_20251119_short.pdf' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/pdf/HanyongXu_cv_20260712.pdf' | relative_url }}" target="_blank">
     👉 Open CV as PDF (best on mobile)
   </a>
 </p>
@@ -43,6 +43,6 @@ description:
 
 <iframe
   class="cv-iframe"
-  src="{{ '/assets/pdf/Hanyong_Xu_cv_20251119_short.pdf' | relative_url }}"
+  src="{{ '/assets/pdf/HanyongXu_cv_20260712.pdf' | relative_url }}"
 >
 </iframe>
